@@ -1,0 +1,1 @@
+find ../../ColdplayAlbum -maxdepth 1 -type f | sed 's/.txt//' | sed 's/ColdplayAlbum//' | tr -d '[:punct:]' > resposta_ex_2.txt
