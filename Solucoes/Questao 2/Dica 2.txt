@@ -1,0 +1,1 @@
+Se você já listou os nomes dos arquivos, deve ter notado que eles são terminam com “.txt”, que é a extensão do arquivo. Agora, fica a dúvida: como podemos apagar esse “.txt” do final dos títulos adquiridos?

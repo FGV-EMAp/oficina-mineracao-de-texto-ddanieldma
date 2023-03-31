@@ -1,0 +1,1 @@
+Experimente posicionar o seu arquivo “.sh” na mesma pasta onde estão localizados os arquivos “.txt” com as músicas (Caminho Absoluto e Caminho Relativo). Agora, note a diferença e pense: como posso acessar uma outra pasta, externa à pasta onde está o arquivo “.sh”?

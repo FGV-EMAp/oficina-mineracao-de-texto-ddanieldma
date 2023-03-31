@@ -1,0 +1,1 @@
+Para ajudar a “debugar” um código, utilizamos constantemente ferramentas como “print” ou, no caso da Bash, o comando “echo”. Assim, agora que você sabe como imprimir o seu resultado na tela do terminal, como podemos salvar esse resultado num arquivo?

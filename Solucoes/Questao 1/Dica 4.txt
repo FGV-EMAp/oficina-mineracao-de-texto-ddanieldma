@@ -1,0 +1,1 @@
+https://devconnected.com/how-to-count-files-in-directory-on-linux/#:~:text=Conclusion-,Count%20Files%20using%20wc,%24%20ls%20%7C%20wc%20%2Dl,-The%20%E2%80%9Cwc%E2%80%9D%20command 

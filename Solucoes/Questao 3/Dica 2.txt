@@ -1,0 +1,1 @@
+Ao lidar com múltiplos arquivos de uma maneira generalizada, você pode “iterar” sobre cada arquivo ou você pode concatenar todos os arquivos num arquivo temporário e aplicar o seu código sobre ele. Agora, fica a dúvida: como concatenar vários arquivos em um só, usando bash?

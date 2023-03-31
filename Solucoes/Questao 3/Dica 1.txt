@@ -1,0 +1,1 @@
+Primeiramente, experimente contar a quantidade de palavras contidas em apenas uma música. Dessa forma, após você entender como atingir o seu objetivo para uma música, você expande o seu cenário para todas as músicas

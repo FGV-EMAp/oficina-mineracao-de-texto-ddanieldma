@@ -1,0 +1,1 @@
+Agora que temos um texto padronizado e sabemos como concatenar vários arquivos em um só, como podemos contar a frequência que uma palavra é citada dentro de um arquivo?

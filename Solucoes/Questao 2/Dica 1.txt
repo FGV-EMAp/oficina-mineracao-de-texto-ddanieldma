@@ -1,0 +1,1 @@
+Da mesma forma que o exercício anterior, note que “Listar as músicas do álbum” significa “Listar os nomes dos arquivos ‘.txt’” presentes na pasta. Agora, como posso fazer isso?

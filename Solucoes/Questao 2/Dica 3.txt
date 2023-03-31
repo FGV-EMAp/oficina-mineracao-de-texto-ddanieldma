@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/965053/extract-filename-and-extension-in-bash#:~:text=basename%20/path/to/dir/filename.txt%20.txt 

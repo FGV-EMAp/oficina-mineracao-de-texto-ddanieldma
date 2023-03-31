@@ -1,0 +1,1 @@
+Note que cada arquivo representa uma música. Logo, “contar o número de músicas” significa “contar o número de arquivos ‘.txt’”. Agora, como posso contar o número de arquivos em uma pasta?

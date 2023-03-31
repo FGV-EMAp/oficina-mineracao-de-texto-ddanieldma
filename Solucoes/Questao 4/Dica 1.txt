@@ -1,0 +1,1 @@
+Como realizamos o tratamento de dados durante a mineração em textos? Buscamos PADRONIZAR o texto, colocando todos os caracteres maiúsculos (uppercase) ou minúsculos (lowercase); remover pontuações;
