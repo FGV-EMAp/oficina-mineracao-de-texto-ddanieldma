@@ -1,1 +1,1 @@
-find ../../ColdplayAlbum -maxdepth 1 -type f | sed 's/.txt//' | sed 's/ColdplayAlbum//' | tr -d '[:punct:]' > resposta_ex_2.txt
+find ../../ColdplayAlbum -maxdepth 1 -type f | sed 's/.txt//g' | sed 's/ColdplayAlbum//g' | tr -d '[:punct:]' > resposta_ex_2.txt
